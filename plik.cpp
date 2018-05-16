@@ -1,3 +1,5 @@
+//kod pewnego programu
+
 #include <iostream>
 
 main(){
